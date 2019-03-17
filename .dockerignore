@@ -2,3 +2,4 @@
 Dockerfile
 *.air.conf
 tmp
+*.md
