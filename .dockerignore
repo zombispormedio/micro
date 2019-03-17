@@ -1,0 +1,4 @@
+.gitignore
+Dockerfile
+*.air.conf
+tmp
