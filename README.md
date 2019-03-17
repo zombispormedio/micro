@@ -6,7 +6,7 @@
 ![Docker Pulls](https://img.shields.io/docker/pulls/zombispormedio/micro.svg)
 ![Docker Stars](https://img.shields.io/docker/stars/zombispormedio/micro.svg)
 
-> Fast & Minimal Docker image for static frontend
+> Fast & Minimal Docker image for static frontend (less than 8MB)
 
 ## Install
 
