@@ -1,4 +1,4 @@
-# micro
+# 👩🏼‍💻 micro
 
 > Minimal docker image for static frontend (less than 8Mb)
 
