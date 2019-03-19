@@ -5,8 +5,9 @@
 ![Version](https://images.microbadger.com/badges/version/zombispormedio/micro:1.0.0.svg)
 ![Docker Pulls](https://img.shields.io/docker/pulls/zombispormedio/micro.svg)
 ![Docker Stars](https://img.shields.io/docker/stars/zombispormedio/micro.svg)
+![GitHub top language](https://img.shields.io/github/languages/top/zombispormedio/micro.svg)
 
-> Fast & Minimal Docker image for static frontend (less than 8MB)
+> Fast & Minimal Docker base image for static frontend (less than 8MB)
 
 ## Install
 
