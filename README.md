@@ -1,11 +1,11 @@
 # 👩🏼‍💻 micro [![Docker Hub](https://img.shields.io/badge/docker-ready-blue.svg)](https://hub.docker.com/r/zombispormedio/micro/)
 
 ![Docker Build](https://img.shields.io/docker/cloud/build/zombispormedio/micro.svg)
+![GitHub top language](https://img.shields.io/github/languages/top/zombispormedio/micro.svg)
 ![Docker Build Automation](https://img.shields.io/docker/cloud/automated/zombispormedio/micro.svg)
 ![Version](https://images.microbadger.com/badges/version/zombispormedio/micro:1.0.0.svg)
 ![Docker Pulls](https://img.shields.io/docker/pulls/zombispormedio/micro.svg)
 ![Docker Stars](https://img.shields.io/docker/stars/zombispormedio/micro.svg)
-![GitHub top language](https://img.shields.io/github/languages/top/zombispormedio/micro.svg)
 
 > Fast & Minimal Docker base image for static frontend (less than 8MB)
 
